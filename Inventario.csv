@@ -1,0 +1,28 @@
+ID_INVENTARIO;muebles;cantidad;fecha_recepcion;fecha_egreso
+1;Sillas;40;20070101;
+2;Mesas;4;20070102;
+3;Termotanque;1;20070103;
+4;Pava Electrica;1;20070104;
+5;Ollas;5;20070105;
+6;Cocina;1;20070106;
+7;Estufa;3;20070107;
+8;Pizarrón;4;20070108;
+9;Alacenas;3;20070109;
+10;Microondas;1;20070110;
+11;Ventiladores;3;20220116;
+12;Freezer;1;20220117;
+13;Heladera;2;20220118;
+14;Televisión;1;20220119;
+15;Computadora;1;20220120;
+16;Mouse;2;20220121;
+17;Teclado;2;20220122;
+18;Monitor;3;20220123;
+19;Armarios;2;20220124;
+20;Guitarra;3;20220125;
+21;Teclados Musicales;3;20220126;
+22;Jarras;10;20220127;
+23;Cuchillos;200;20220128;
+24;Tenedores;200;20220129;
+25;Cucharas;180;20220130;
+26;Platos;200;20220131;
+27;Tazas;250;20220132;

@@ -1,0 +1,94 @@
+ID_ROPA;tipo;genero;edad
+1;Remera;M;7
+2;Remera;M;8
+3;Remera;M;10
+4;Remera;D;12
+5;Remera;F;5
+6;Remera;F;6
+7;Remera;M;7
+8;Remera;F;8
+9;Remera;I;2
+10;Remera;M;18
+11;Remera;F;8
+12;Pantalón Corto;M;6
+13;Pantalón Corto;M;7
+14;Pantalón Corto;M;2
+15;Pantalón Corto;F;12
+16;Pantalón Corto;F;3
+17;Pantalón Corto;F;8
+18;Pantalón Corto;F;4
+19;Jean;F;13
+20;Jean;M;13
+21;Jean;F;14
+22;Jean;F;18
+23;Jean;F;18
+24;Jean;F;13
+25;Jean;F;10
+26;Jean;M;10
+27;Jean;M;11
+28;Jean;M;12
+29;Joggin;M;18
+30;Joggin;M;18
+31;Joggin;M;13
+32;Joggin;F;9
+33;Joggin;F;8
+34;Joggin;F;12
+35;Zapatilla;F;18
+36;Zapatilla;I;3
+37;Zapatilla;F;5
+38;Zapatilla;F;10
+39;Zapatilla;M;20
+40;Zapatilla;M;15
+41;Zapatilla;I;3
+42;Zapatilla;I;1
+43;Zapatilla;M;18
+44;Zapatilla;F;7
+45;Zapatilla;F;8
+46;Zapatilla;F;5
+47;Zapatilla;M;3
+48;Medias;I;6
+49;Medias;I;4
+50;Medias;I;8
+51;Medias;I;3
+52;Medias;I;3
+53;Medias;I;5
+54;Medias;I;10
+55;Medias;I;10
+56;Ropa Interior;M;10
+57;Ropa Interior;M;10
+58;Ropa Interior;M;13
+59;Ropa Interior;M;13
+60;Ropa Interior;F;13
+61;Ropa Interior;F;8
+62;Ropa Interior;F;7
+63;Ropa Interior;F;6
+64;Buzo;F;6
+65;Buzo;F;10
+66;Buzo;F;12
+67;Buzo;F;18
+68;Buzo;F;3
+69;Buzo;F;4
+70;Buzo;M;5
+71;Buzo;M;8
+72;Buzo;M;12
+73;Buzo;M;10
+74;Buzo;M;7
+75;Buzo;I;6
+76;Sweater;I;5
+77;Sweater;I;12
+78;Sweater;M;15
+79;Sweater;M;18
+80;Sweater;M;13
+81;Sweater;M;6
+82;Sweater;F;3
+83;Sweater;F;9
+84;Sweater;F;10
+85;Sweater;F;11
+86;Sweater;F;7
+87;Sweater;F;3
+88;Bufanda;I;12
+89;Bufanda;I;11
+90;Bufanda;I;11
+91;Bufanda;I;10
+92;Bufanda;I;5
+93;Bufanda;I;5
